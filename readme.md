@@ -1,0 +1,1 @@
+Proyecto de plataforma de compra y personalización de ropa
